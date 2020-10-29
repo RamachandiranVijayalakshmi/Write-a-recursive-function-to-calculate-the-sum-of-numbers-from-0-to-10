@@ -7,7 +7,4 @@ if num:
         return 0
 ```
 ## Expected Output
-``  sh
 55
-
-``
